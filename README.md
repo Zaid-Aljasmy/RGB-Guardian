@@ -8,7 +8,7 @@ Fast-paced color-matching arcade game with progressive difficulty system.
 
 ---
 
-##  Screenshots
+## 🖼️ Screenshots
 
 ![Screenshots](screenshots/screenshot.png)
 
