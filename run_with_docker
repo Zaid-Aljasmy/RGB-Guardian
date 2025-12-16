@@ -1,0 +1,11 @@
+#!/bin/bash
+
+export DISPLAY=:0
+xhost +local:docker
+
+sudo docker build -t rgb-guardian .
+sudo docker run --rm -e DISPLAY=$DISPLAY \
+  -v /tmp/.X11-unix:/tmp/.X11-unix \
+  -v $XDG_RUNTIME_DIR/pulse/native:/run/pulse/native \
+  -e PULSE_SERVER=unix:/run/pulse/native \
+  rgb-guardian
