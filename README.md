@@ -158,12 +158,3 @@ chmod +x rgb_guardian
 
 ---
 
-## 📄 License
-
-Free to use and modify.
-
----
-
-## 🎮 Enjoy the game!
-
-**High score challenge:** Can you reach Level 10? 🏆
