@@ -8,6 +8,10 @@ Fast-paced color-matching arcade game with progressive difficulty system.
 
 ---
 
+##  Screenshots
+
+![Screenshots](screenshots/screenshot.png)
+
 ## 🎯 Quick Start
 
 ### Option 1: Docker (Recommended)
