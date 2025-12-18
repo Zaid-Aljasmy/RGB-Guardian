@@ -5,7 +5,7 @@ Fast-paced color-matching arcade game with progressive difficulty system.
 ![Language](https://img.shields.io/badge/C++-17-blue.svg)
 ![SDL2](https://img.shields.io/badge/SDL2-2.0+-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
-![Latest commit](https://img.shields.io/github/last-commit/Zaid-Aljasmy/RGB-Guardian?style=flat-square)
+![Latest commit](https://img.shields.io/github/last-commit/Zaid-Aljasmy/RGB-Guardian?style=badge)
 
 ---
 
